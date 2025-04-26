@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/C_Bara.dir/1_demo.c.o -o C_Bara 

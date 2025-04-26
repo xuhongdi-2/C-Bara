@@ -1,0 +1,3 @@
+/home/xuhongdi/C-Bara/build/CMakeFiles/C_Bara.dir
+/home/xuhongdi/C-Bara/build/CMakeFiles/edit_cache.dir
+/home/xuhongdi/C-Bara/build/CMakeFiles/rebuild_cache.dir

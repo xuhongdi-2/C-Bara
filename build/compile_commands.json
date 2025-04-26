@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xuhongdi/C-Bara/build",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -o CMakeFiles/C_Bara.dir/1_demo.c.o -c /home/xuhongdi/C-Bara/1_demo.c",
+  "file": "/home/xuhongdi/C-Bara/1_demo.c",
+  "output": "CMakeFiles/C_Bara.dir/1_demo.c.o"
+}
+]
