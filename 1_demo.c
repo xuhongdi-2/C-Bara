@@ -18,5 +18,4 @@ int main() {
     system("firefox https://www.baidu.com");
     system("curl wttr.in");
     return 0;
-    
 }
